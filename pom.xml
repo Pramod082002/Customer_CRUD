@@ -14,7 +14,7 @@
 	<name>customer_table</name>
 	<description>SunbaseData internship assignment. Integrate API&apos;s by developing customer table.</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>20</java.version>
 	</properties>
 	<packaging>jar</packaging>
 	<dependencies>
