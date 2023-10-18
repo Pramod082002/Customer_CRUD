@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sunbasedata.intern.customer_table.CustomerTableApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.088 s - in com.sunbasedata.intern.customer_table.CustomerTableApplicationTests

@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:com.sunbasedata.intern.customer_table.CustomerTableApplicationTests]/[method:contextLoads()]
